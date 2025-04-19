@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>🎉 Marielle’s Birthday Scavenger Hunt 🎉</title>
+    <style>
+        body { font-family: Arial, sans-serif; padding: 10px; background-color: #f9f9f9; }
+        .clue { background-color: #fff; padding: 15px; margin-bottom: 10px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
+        button { margin-top: 5px; margin-right: 5px; padding: 6px 10px; font-size: 14px; cursor: pointer; }
+        .copy-block { margin-bottom: 10px; }
+    </style>
+</head>
+<body>
+
+<h1>🎉 Marielle’s Birthday Scavenger Hunt 🎉</h1>
+
+<div class="clue">
+    <h3>START - FAKE TOUR</h3>
+    <div class="copy-block">
+        <strong>OUTGOING CLUE</strong>
+        <p id="start-clue">Oops, did you think this was a tour?! Nope—it’s a scavenger hunt! Let the games begin! TEXT ME THE WORD THAT WAS LIT UP OVER THE BAR and the hunt will begin!</p>
+        <button onclick="copyText('start-clue')">Copy Outgoing Clue</button>
+    </div>
+    <div class="copy-block">
+        <strong>REPLY IF CORRECT</strong>
+        <p id="start-reply">How insightful of you Team Marielle! I think you're up for this challenge.</p>
+        <button onclick="copyText('start-reply')">Copy Reply</button>
+    </div>
+</div>
+
+<div class="clue">
+    <h3>LET'S GET IT STARTED!</h3>
+    <div class="copy-block">
+        <strong>OUTGOING CLUE</strong>
+        <p id="start2-clue">What a beautiful April day to celebrate a beautiful woman's birthday! Follow Marielle to here: https://the-game-bureau.github.io/nolabound/1.png
+        Wait, that’s not right. I always thought that was the flag for a city named after America’s favorite fighting Frenchman, but it’s not—this is: https://the-game-bureau.github.io/nolabound/2.gif Who knew? HEAD TO THE NEARBY PLACE THAT THIS FLAG REPRESENTS. WHEN YOU GET THERE TEXT ME WHERE YOU ARE.</p>
+        <button onclick="copyText('start2-clue')">Copy Outgoing Clue</button>
+    </div>
+    <div class="copy-block">
+        <strong>REPLY IF CORRECT</strong>
+        <p id="start2-reply">Great start, Team Marielle! I would expect no less from a proud LSU alumna and her friends!</p>
+        <button onclick="copyText('start2-reply')">Copy Reply</button>
+    </div>
+</div>
+
+<script>
+function copyText(id) {
+    const text = document.getElementById(id).innerText;
+    navigator.clipboard.writeText(text).then(() => {
+        const button = event.target;
+        button.textContent = 'Copied!';
+        setTimeout(() => { button.textContent = 'Copy ' + (id.includes('clue') ? 'Outgoing Clue' : 'Reply'); }, 1500);
+    });
+}
+</script>
+
+</body>
+</html>
