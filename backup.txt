@@ -4,7 +4,7 @@ Saturday, April 16th 2025, 1pm
 
 717 St. Charles Avenue (Inside)
 
-PREGAME
+0 PREGAME
 
 Unlock the front door.
 
@@ -18,9 +18,11 @@ Once everyone’s comfortable, lock the front door.
 
 
 
-TIME FOR A BORING WALKING TOUR
+1 TIME FOR A BORING WALKING TOUR
 
-START LOCATION717 St. Charles Avenue (Outside)
+START LOCATION
+
+717 St. Charles Avenue (Outside)
 
 BACKGROUND
 
@@ -30,37 +32,49 @@ Say, “Oh, one more thing..."
 
 You step back inside, lock the deadbolt, and send the first clue.
 
-OUTGOING CLUE“Oops, did you think this was a tour?! Nope—it’s a scavenger hunt! Let the games begin!TEXT ME THE WORD THAT WAS LIT UP OVER THE BAR and the hunt will begin!”
+OUTGOING CLUE
 
-EXPECTED RESPONSEINSIGHTS
+Oops, did you think this was a tour?! Nope—it’s a scavenger hunt! Let the games begin! TEXT ME THE WORD THAT WAS LIT UP OVER THE BAR and the hunt will begin!
+
+EXPECTED RESPONSE
+
+INSIGHTS
 
 REPLY IF CORRECT
 
 How insightful of you Team Marielle! I think you're up for this challenge.
 
-
-
 LET'S GET IT STARTED!
 
-START LOCATIONStanding on the street outside 717.
+START LOCATION
+
+Standing on the street outside 717.
 
 BACKGROUND
 
 A good part of the tour takes place in Lafayette Square. Let's get them there. Hopefully they're dazed and confused.
 
-OUTGOING CLUEWhat a beautiful April day to celebrate a beautiful woman's birthday! Follow Marielle to here:https://the-game-bureau.github.io/nolabound/1.png
+OUTGOING CLUE
 
-Wait, that’s not right. I always thought that was the flag for a city named after America’s favorite fighting Frenchman, but it’s not—this is:https://the-game-bureau.github.io/nolabound/2.gifWho knew?
+What a beautiful April day to celebrate a beautiful woman's birthday! Marielle, lead everyone to the place represented by the first flag below.
 
-HEAD TO THE NEARBY PLACE THAT THIS FLAG REPRESENTS. WHEN YOU GET THERE TEXT ME WHERE YOU ARE.
+Wait, that’s not right. I always thought that was the flag for a city named after America’s favorite fighting Frenchman, but it’s not. The second flag is. Who knew?
 
-EXPECTED RESPONSELAFAYETTE or LAFAYETTE SQUARE
+HEAD TO THE NEARBY PLACE THAT THE SECOND FLAG REPRESENTS. WHEN YOU GET THERE TEXT ME WHERE YOU ARE.
 
-REPLY IF CORRECTGreat start, Team Marielle! I would expect no less from a proud LSU alumna and her friends!
+https://the-game-bureau.github.io/nolabound/1.png
 
- 
+https://the-game-bureau.github.io/nolabound/2.gif
 
-PHOTO OP
+EXPECTED RESPONSE
+
+LAFAYETTE or LAFAYETTE SQUARE
+
+REPLY IF CORRECT
+
+Great start, Team Marielle! 🍾 I would expect no less from a proud LSU alumna and her friends!
+
+2 PHOTO OP
 
 START LOCATION
 
@@ -78,91 +92,134 @@ EXPECTED RESPONSE
 
 {Photo}
 
-REPLY IF CORRECT“Beautiful! I think you've found your next headshot for NOLA Power of 100 Ladies Who Lunch! Stand by for a harder challenge.
+REPLY IF CORRECT
 
-TRICK QUESTION
+Beautiful! I think you've found your next headshot for NOLA Power of 100 Ladies Who Lunch! Stand by for a harder challenge.
+
+3 TRICK QUESTION
 
 START LOCATION
 
 Gallier Hall
 
-BACKGROUNDLocation: Facing Gallier Hall
+BACKGROUND
+
+Gallier Hall
 
 OUTGOING CLUE
 
-While we're here... As you know, Gallier Hall is our old City Hall, front and center, still with Mardi Gras stands up 😖.TELL ME THE AMERICAN PRESIDENT WHOSE FUNERAL WAS AT GALLIER HALL.
+While we're here... As you know, Gallier Hall is our old City Hall, front and center, still with Mardi Gras stands up 😖.
 
-OK… IT’S A TRICK QUESTION. It was an American President—but the one and only President of the Confederate States of America.”
+TELL ME THE AMERICAN PRESIDENT WHOSE FUNERAL WAS AT GALLIER HALL.
 
-EXPECTED RESPONSEJEFFERSON DAVIS
+OK… It's a trick question. It was an American President—but the one and only President of the Confederate States of America.
 
-REPLY IF CORRECTDid you Google that? Great job team! Here's a picture from that funeral, right where you stand, 135 years ago:https://archives-nolalibrary.contentdm.oclc.org/digital/api/singleitem/image/p16880coll18/15/default.jpg
+EXPECTED RESPONSE
 
-4. SHUMARD OAK
+JEFFERSON DAVIS
 
-BACKGROUND3 presidents dedicated a tree here.
+REPLY IF CORRECT
 
-OUTGOING CLUELet's wander around the square for a minute. FIND A TREE PLANTED BY A BUSH AND TELL ME WHAT TYPE OF TREE IT IS.
+Did you Google that? Great job team! Here's a picture from that funeral, right where you stand, 135 years ago:
 
-EXPECTED RESPONSESHUMARD or SHUMARD OAK
+https://archives-nolalibrary.contentdm.oclc.org/digital/api/singleitem/image/p16880coll18/15/default.jpg
 
-REPLY IF CORRECTYou can not be fooled Team Marielle!https://the-game-bureau.github.io/nolabound/Bush.jpg
+4 SHUMARD OAK
 
-DEAD PRESIDENTS
+BACKGROUND
 
-BACKGROUNDLocation: Federal Reserve Building (right of Gallier Hall)
+3 presidents dedicated a tree here.
 
-OUTGOING CLUESo you think you're a pirate, huh? Well, have I got a haul for you! Take a look at the plain building to the right of Gallier Hall.
+OUTGOING CLUE
 
-TEXT ME HOW MANY DOLLARS A DAY they’re talking about in this video:https://www.youtube.com/watch?v=mwCfK1oqRkIYou can save the video for later after you get your answer from it. You don't want to stand around looking like a teenager watching videos in public!
+Let's wander around the square for a minute. FIND A TREE PLANTED BY A BUSH AND TELL ME WHAT TYPE OF TREE IT IS.
 
-EXPECTED RESPONSE6 MILLION
+EXPECTED RESPONSE
 
-REPLY IF CORRECTArrrrrrrrrrrrrgh! That's a lot of money ye found, matey! I'm sure pirates walked these streets way back when. I mean, just look at this place:
+SHUMARD or SHUMARD OAK
+
+REPLY IF CORRECT
+You can not be fooled Team Marielle!
+
+https://the-game-bureau.github.io/nolabound/Bush.jpg
+
+5 DEAD PRESIDENTS
+
+BACKGROUND
+
+Location: Federal Reserve Building (right of Gallier Hall)
+
+OUTGOING CLUE
+
+So you think you're a pirate, huh? Well, have I got a haul for you! Take a look at the plain building to the right of Gallier Hall.
+
+TEXT ME HOW MANY DOLLARS A DAY they’re talking about in the video below. You can save the video for later after you get your answer from it. You don't want to stand around looking like a teenager watching videos in public!
+
+https://www.youtube.com/watch?v=mwCfK1oqRkI
+
+EXPECTED RESPONSE
+
+6 MILLION
+
+REPLY IF CORRECT
+
+Arrrrrrrrrrrrrgh! That's a lot of money ye found, matey! I'm sure pirates walked these streets way back when. I mean, just look at this place:
 
 https://the-game-bureau.github.io/nolabound/ls.jpg
 
+6 OUT OF THERE
 
+BACKGROUND
 
-OUT OF THERE
+"Out of There" Sculpture at Camp and Lafayette
 
-BACKGROUNDLocation: "Out of There" Sculpture at Camp and Lafayette
+OUTGOING CLUE
 
-OUTGOING CLUEFrom pirates, to assassins. It's been reported that Lee Harvey Oswald used to hang out at the Newman building at the corner of Lafayette and Camp.
-
-https://the-game-bureau.github.io/nolabound/newman.jpg
-
-https://the-game-bureau.github.io/nolabound/flyer.jpg 
+From pirates, to assassins. It's been reported that Lee Harvey Oswald used to hang out at the Newman building at the corner of Lafayette and Camp.
 
 The Newman building has been replaced by a sculpture.
 
-TAKE A PICTURE OF THE BIRTHDAY GIRL ROTATING THE SCULPTURE TO 274 DEGREES, ALSO KNOWN AS NORTH, NORTHEAST, BUT DON'T SEND ME THE PIC. TELL ME THE NAME OF THE FOUNDING FATHER SHE'S POINTING TO.
+TAKE A PICTURE OF THE BIRTHDAY GIRL ROTATING THE SCULPTURE TO 274 DEGREES, ALSO KNOWN AS NORTH, NORTHEAST, BUT DON'T SEND ME THE PIC. TELL ME THE NAME OF THE FOUNDING FATHER THE SCULPTURE IS POINTING TO.
 
 Do NOT text me "Benjamin Franklin". You may have to strain your neck a bit to find the father written in stone. He was the first Chief Justice of the United States, appointed by George Washington himself.
 
-EXPECTED RESPONSEJohn Jay
+Here's some Oswald stuff that will help you in no way what-so-ever 🤣.
 
-REPLY IF CORRECTWow! I am impressed! That is some Lake Charles muscle combined with some Political Science brain power!
+https://the-game-bureau.github.io/nolabound/newman.jpg
 
+https://the-game-bureau.github.io/nolabound/flyer.jpg
 
+EXPECTED RESPONSE
 
-LET US PRAY
+John Jay
 
-LOCATIONSt. Patrick's Church
+REPLY IF CORRECT
 
-BACKGROUNDIt's the day before Easter.
+Wow! I am impressed! That is some Lake Charles muscle combined with some Political Science brain power!
 
-OUTGOING CLUEGO HERE AND TELL ME WHERE YOU ARE:Where Irish hearts sought a sacred space,Beyond the French Quarter's first cross.On street of tents stands,Built by determined hands,A house of worship, filled with grace.
+7 LET US PRAY
 
-EXPECTED RESPONSESt. Patrick's Church
+LOCATION
+
+St. Patrick's Church
+
+BACKGROUND
+
+It's the day before Easter.
+
+OUTGOING CLUE
+
+GO HERE AND TELL ME WHERE YOU ARE:Where Irish hearts sought a sacred space,Beyond the French Quarter's first cross.On street of tents stands,Built by determined hands,A house of worship, filled with grace.
+
+EXPECTED RESPONSE
+
+St. Patrick's Church
 
 REPLY IF CORRECT
 
 Yes. When the Irish went to St. Louis Cathedral it seemed like God only spoke French, so they built a little wooden church for themselves. Then Gallier, yes that Gallier, stepped in and built the church you see today.
 
-
-
-INSIDE ST. PATRICK'S
+8 INSIDE ST. PATRICK'S
 
 LOCATION
 
@@ -184,13 +241,7 @@ REPLY IF CORRECT
 
 That was a nice interlude! Let's continue to celebrate the birthday girl!
 
-
-
---------------SETUP THE CAKE--------------------
-
-
-
-TOWARD THE LIGHT
+9 TOWARD THE LIGHT
 
 LOCATION
 
@@ -210,25 +261,33 @@ EXPECTED RESPONSE
 
 REPLY IF CORRECT
 
-https://the-game-bureau.github.io/nolabound/lighthouse.jpg Here's two pics right back atcha! OK, team Marielle, we're almost done. We've got two challenges left.
+Here's two pics right back atcha! OK, team Marielle, we're almost done. We've got two challenges left.
 
- 
+https://the-game-bureau.github.io/nolabound/lighthouse.jpg
 
-LET'S ROCK!
+10 LET'S ROCK!
 
-LOCATIONJunebug
+LOCATION
+
+Junebug
 
 BACKGROUND
 
 It used to be a recording studio.
 
-OUTGOING CLUEIt's no secret that one of the best new restaurant's in the city is right across the street, but did you know that Junebug used to be Jazz City Studios. SEND THE BIRTHDAY GIRL IN TO SEE SOME OF THE FAMOUS MUSICIAN'S IN THE HALL. SEND ME ONE OF THEIR NAMES.
+OUTGOING CLUE
 
-EXPECTED RESPONSE{Fats Domino, Little Richard, Professor Longhair, Dr. John, or The Meters}
+It's no secret that one of the best new restaurant's in the city is right across the street, but did you know that Junebug used to be Jazz City Studios. SEND THE BIRTHDAY GIRL IN TO SEE SOME OF THE FAMOUS MUSICIAN'S IN THE HALL. SEND ME ONE OF THEIR NAMES.
 
-REPLY IF CORRECTHere's a whole playlist related to this studio for later consumption:https://open.spotify.com/playlist/7b4Aar7yhFQQ5tY3Ovakk6?si=uzozkLTWRzSuX5ME-sFVOA
+EXPECTED RESPONSE
 
-PARTY
+{Fats Domino, Little Richard, Professor Longhair, Dr. John, or The Meters}
+
+REPLY IF CORRECT
+
+Here's a whole playlist related to this studio for later consumption:https://open.spotify.com/playlist/7b4Aar7yhFQQ5tY3Ovakk6?si=uzozkLTWRzSuX5ME-sFVOA
+
+11 PARTY
 
 LOCATION
 
@@ -238,7 +297,9 @@ BACKGROUND
 
 The end.
 
-OUTGOING CLUECome on back to 717 St. Charles!https://w3w.co/settle.fallen.mascotsUNSCRAMBLE THE FOUR NUMBERS IN THE WINDOW TO MAKE A NUMBER NEAR AND DEAR TO MARIELLE! TYPE THE NUMBER INTO THE DOOR'S KEYPAD AND HIT THE CHECKMARK BUTTON
+OUTGOING CLUE
+
+Come on back to 717 St. Charles!https://w3w.co/settle.fallen.mascotsUNSCRAMBLE THE FOUR NUMBERS IN THE WINDOW TO MAKE A NUMBER NEAR AND DEAR TO MARIELLE! TYPE THE NUMBER INTO THE DOOR'S KEYPAD AND HIT THE CHECKMARK BUTTON
 
 EXPECTED RESPONSE
 
