@@ -1,201 +1,249 @@
 🎉 Marielle’s Birthday Scavenger Hunt 🎉
 
-0. PREGAME
+Saturday, April 16th 2025, 1pm
 
-Location: 717 St. Charles Avenue (Inside)When: Saturday, April 16th 2025, 1pmPurpose: Setup and anticipationInstructions:
+717 St. Charles Avenue (Inside)
+
+PREGAME
 
 Unlock the front door.
 
 Test the deadbolt code.
 
-Set up music and drinks.
+Set up music, drinks and hide cake.
 
-Confirm everyone is in a group text thread (that’s how you’ll receive all your clues).
+Confirm everyone is in a group text thread.
 
-Let everyone settle in and get comfortable.
-
-Once everyone’s inside—lock the front door.
-
-1. START
-
-Location: 717 St. Charles Avenue (Outside)
-
-You lead the group outside under the pretense of beginning a tour.
-
-Just before you “start,” you say:
-
-“Oh, one more thing..."
-
-You unlock the door (buzz in) step back inside, lock the deadbolt, and send this text:
-
-TEXT
-
-“Oops, did you think this was a tour?! Nope—it’s a scavenger hunt! Let the games begin!TEXT ME THE WORD THAT WAS LIT UP OVER THE BAR and I’ll send you to your first location.”
-
-Expected Response: INSIGHTS
-
-2. LAFAYETTE SQUARE
-
-Location: Lafayette Square, New Orleans, LA 70130
-
-TEXT
-
-“Yes! Let's get started! Head here: https://the-game-bureau.github.io/nolabound/1.png
-
-Wait. That’s not right. I always thought that was the flag for America’s favorite fighting Frenchman, but it’s not—this is: https://the-game-bureau.github.io/nolabound/2.gif anyway...
-
-HEAD TO THE NEARBY PLACE THAT THIS FLAG REPRESENTS. WHEN YOU GET THERE TEXT ME WHERE YOU ARE.”
-
-Expected Response: LAFAYETTE or Lafayette Square
+Once everyone’s comfortable, lock the front door.
 
 
 
-2A. LAFAYETTE SQUARE
+TIME FOR A BORING WALKING TOUR
 
-TEXT
+START LOCATION717 St. Charles Avenue (Outside)
 
-“Great start, Team Marielle! I would expect no less from a proud LSU alumna!
+BACKGROUND
 
-SEND ME A PICTURE OF THE BIRTHDAY GIRL WITH FLOWERS IN THE BACKGROUND.”
+Give the illusion that you're giving a walking tour.
 
-Expected Response: Photo
+Say, “Oh, one more thing..."
 
-3. TRICK QUESTION
+You step back inside, lock the deadbolt, and send the first clue.
 
-Location: Facing Gallier Hall
+OUTGOING CLUE“Oops, did you think this was a tour?! Nope—it’s a scavenger hunt! Let the games begin!TEXT ME THE WORD THAT WAS LIT UP OVER THE BAR and the hunt will begin!”
 
-TEXT
+EXPECTED RESPONSEINSIGHTS
 
-“Beautiful! I think you found your next headshot for NOLA Power of 100 Ladies Who Lunch!
+REPLY IF CORRECT
 
-Now for a dark turn. TELL ME THE AMERICAN PRESIDENT WHOSE FUNERAL WAS AT GALLIER HALL.
+How insightful of you Team Marielle! I think you're up for this challenge.
 
-https://archives-nolalibrary.contentdm.oclc.org/digital/api/singleitem/image/p16880coll18/15/default.jpg
 
-OK… IT’S A TRICK QUESTION.
 
-It was an American President—but it was the one and only President of the Confederate States of America.”
+LET'S GET IT STARTED!
 
-Expected Response: JEFFERSON DAVIS
+START LOCATIONStanding on the street outside 717.
+
+BACKGROUND
+
+A good part of the tour takes place in Lafayette Square. Let's get them there. Hopefully they're dazed and confused.
+
+OUTGOING CLUEWhat a beautiful April day to celebrate a beautiful woman's birthday! Follow Marielle to here:https://the-game-bureau.github.io/nolabound/1.png
+
+Wait, that’s not right. I always thought that was the flag for a city named after America’s favorite fighting Frenchman, but it’s not—this is:https://the-game-bureau.github.io/nolabound/2.gifWho knew?
+
+HEAD TO THE NEARBY PLACE THAT THIS FLAG REPRESENTS. WHEN YOU GET THERE TEXT ME WHERE YOU ARE.
+
+EXPECTED RESPONSELAFAYETTE or LAFAYETTE SQUARE
+
+REPLY IF CORRECTGreat start, Team Marielle! I would expect no less from a proud LSU alumna and her friends!
+
+ 
+
+PHOTO OP
+
+START LOCATION
+
+Statue in the middle of Lafayette Square.
+
+BACKGROUND
+
+An easy one.
+
+OUTGOING CLUE
+
+SEND ME A PICTURE OF THE BIRTHDAY GIRL WITH FLOWERS IN THE BACKGROUND.
+
+EXPECTED RESPONSE
+
+{Photo}
+
+REPLY IF CORRECT“Beautiful! I think you've found your next headshot for NOLA Power of 100 Ladies Who Lunch! Stand by for a harder challenge.
+
+TRICK QUESTION
+
+START LOCATION
+
+Gallier Hall
+
+BACKGROUNDLocation: Facing Gallier Hall
+
+OUTGOING CLUE
+
+While we're here... As you know, Gallier Hall is our old City Hall, front and center, still with Mardi Gras stands up 😖.TELL ME THE AMERICAN PRESIDENT WHOSE FUNERAL WAS AT GALLIER HALL.
+
+OK… IT’S A TRICK QUESTION. It was an American President—but the one and only President of the Confederate States of America.”
+
+EXPECTED RESPONSEJEFFERSON DAVIS
+
+REPLY IF CORRECTDid you Google that? Great job team! Here's a picture from that funeral, right where you stand, 135 years ago:https://archives-nolalibrary.contentdm.oclc.org/digital/api/singleitem/image/p16880coll18/15/default.jpg
 
 4. SHUMARD OAK
 
-Location: Lafayette Square
+BACKGROUND3 presidents dedicated a tree here.
 
-Text Message:
+OUTGOING CLUELet's wander around the square for a minute. FIND A TREE PLANTED BY A BUSH AND TELL ME WHAT TYPE OF TREE IT IS.
 
-Did you Google that?! Good job. Next up, stay in Lafayette Square and find a tree planted by a Bush. TEXT ME THE TYPE OF TREE IT IS“
+EXPECTED RESPONSESHUMARD or SHUMARD OAK
 
-Expected Response: SHUMARD
+REPLY IF CORRECTYou can not be fooled Team Marielle!https://the-game-bureau.github.io/nolabound/Bush.jpg
 
-5. DEAD PRESIDENTS
+DEAD PRESIDENTS
 
-Location: Federal Reserve Building (right of Gallier Hall)Question:
+BACKGROUNDLocation: Federal Reserve Building (right of Gallier Hall)
 
-Correct! You must have caught my capitalization of Bush!
+OUTGOING CLUESo you think you're a pirate, huh? Well, have I got a haul for you! Take a look at the plain building to the right of Gallier Hall.
 
-https://the-game-bureau.github.io/nolabound/Bush.jpgOK, back to the program! There's another very non-descript building to the right of Gallier Hall. Watch this video (https://www.youtube.com/watch?v=mwCfK1oqRkI), at least the first minute of it
+TEXT ME HOW MANY DOLLARS A DAY they’re talking about in this video:https://www.youtube.com/watch?v=mwCfK1oqRkIYou can save the video for later after you get your answer from it. You don't want to stand around looking like a teenager watching videos in public!
 
-TEXT ME HOW MANY DOLLARS A DAY they’re talking about in the video.”
+EXPECTED RESPONSE6 MILLION
 
-Expected Response: 6 MILLION
+REPLY IF CORRECTArrrrrrrrrrrrrgh! That's a lot of money ye found, matey! I'm sure pirates walked these streets way back when. I mean, just look at this place:
 
-5A. GROUP PIC OR IT DIDN’T HAPPEN
+https://the-game-bureau.github.io/nolabound/ls.jpg
 
-Location: Lafayette SquareText Message:
 
-“That’s a lot of money! That’s a lot of history too—and we haven’t even left Lafayette Square yet.
 
-Take a look at what this place used to look like:https://the-game-bureau.github.io/nolabound/ls.jpg”“
+OUT OF THERE
 
-How about getting a non-sketchy stranger (good luck!) to take y'all's picture?
+BACKGROUNDLocation: "Out of There" Sculpture at Camp and Lafayette
 
-SEND ME THE PICTURE AND I’LL SEND YOU THE NEXT STOP!”
+OUTGOING CLUEFrom pirates, to assassins. It's been reported that Lee Harvey Oswald used to hang out at the Newman building at the corner of Lafayette and Camp.
 
-Expected Response: Photo
+https://the-game-bureau.github.io/nolabound/newman.jpg
 
-6. OUT OF THERE
+https://the-game-bureau.github.io/nolabound/flyer.jpg 
 
-Location: "Out of There" Sculpture at Lafayette SquareText Message:
+The Newman building has been replaced by a sculpture.
 
-“OK, let's get the f outta here, but not too far. Cross Camp and find the sculpture that looks like a giant metal arrow. It’s called Out of There.
+TAKE A PICTURE OF THE BIRTHDAY GIRL ROTATING THE SCULPTURE TO 274 DEGREES, ALSO KNOWN AS NORTH, NORTHEAST, BUT DON'T SEND ME THE PIC. TELL ME THE NAME OF THE FOUNDING FATHER SHE'S POINTING TO.
 
-ROTATE THE ARROW UNTIL IT POINTS TO A FOUNDING FATHER. TELL ME HIS NAME.
+Do NOT text me "Benjamin Franklin". You may have to strain your neck a bit to find the father written in stone. He was the first Chief Justice of the United States, appointed by George Washington himself.
 
-UH, NO, IT'S NOT BENJAMIN FRANKLIN. YOU MAY HAVE TO LOOK UP.
+EXPECTED RESPONSEJohn Jay
 
-Expected Response: John Jay
+REPLY IF CORRECTWow! I am impressed! That is some Lake Charles muscle combined with some Political Science brain power!
 
-7. INTERMISSION: DRINKS & LIGHTHOUSE
 
-Location: lighter.office.buckets(Actual lighthouse across the street from Junebug)Text Message:
 
-I can't believe you got that one!
+LET US PRAY
 
-Isn’t it time for a break? Doesn’t the birthday girl need a drink?
+LOCATIONSt. Patrick's Church
 
-Let’s walk towards the light—the lighthouse, to be specific—and stop for a sip.
+BACKGROUNDIt's the day before Easter.
 
-Head to https://what3words.com/lighter.office.buckets
+OUTGOING CLUEGO HERE AND TELL ME WHERE YOU ARE:Where Irish hearts sought a sacred space,Beyond the French Quarter's first cross.On street of tents stands,Built by determined hands,A house of worship, filled with grace.
 
-Pop into Junebug or any nearby watering hole.
+EXPECTED RESPONSESt. Patrick's Church
 
-TEXT ME A PHOTO IN FRONT OF THE LIGHTHOUSE WHEN YOU’RE READY TO RESUME.”Expected Response: Photo
+REPLY IF CORRECT
 
-8. JUNEBUG GROOVES
+Yes. When the Irish went to St. Louis Cathedral it seemed like God only spoke French, so they built a little wooden church for themselves. Then Gallier, yes that Gallier, stepped in and built the church you see today.
 
-Location: Junebug (744 Camp Street, New Orleans, LA)
 
-Text Message:
 
-“Nice shot!
+INSIDE ST. PATRICK'S
 
-Did you notice the photos in the hallway at Junebug?
+LOCATION
 
-Were they spinning the turntable while you were there?
+Inside St. Patrick's
 
-Believe it or not, Junebug used to be Jazz City Studio, a legendary spot where Rock & Roll Hall of Fame inductee Cosimo Matassa worked his magic.
+BACKGROUND
 
-TEXT ME THE NAME OF ONE OF THE ARTISTS ON THE WALL and don't drink too much because it's time to party back at the start!
+Some beautiful stuff.
 
-Expected Response: Cosimo recorded and produced for Fats Domino, Little Richard, Professor Longhair, Dr. John, and The Meters.
+OUTGOING CLUE
 
-9. FINAL STOP: CAKE CODE
+Many church's close their doors between Good Friday and Easter Sunday to symbolize Jesus' Death and Resurrection. But if the doors are open, SEND ME A PIC OF ST. PATRICK BAPTIZING THE PRINCESSES. Otherwise just let me know it's locked up and I'll send you the next adventure.
 
-Location: 717 St. Charles AvenueIn the window: Cake with candles arranged as 4 6 0 1Note: "Unscramble for a number near and dear to Marielle."
+EXPECTED RESPONSE
 
-Text Message:
+{Photo}
 
-“Come on back to 717 St. Charles, we're done! ...well, almost. I'm not letting you in until you UNSCRAMBLE THE FOUR NUMBERS IN THE WINDOW TO MAKE A FOUR DIGIT NUMBER NEAR AND DEAR TO MARIELLE! TYPE THE NUMBER INTO THE DOOR'S KEYPAD AND THEN HIT THE CHECKMARK BUTTON."
+REPLY IF CORRECT
 
-Expected Response: 0614
+That was a nice interlude! Let's continue to celebrate the birthday girl!
 
 
 
+--------------SETUP THE CAKE--------------------
 
 
-optional: 11. CUBAN CONNECTION
 
+TOWARD THE LIGHT
 
+LOCATION
 
-Location: Cuban flag marker (TBD)
+Lighthouse on Camp
 
+BACKGROUND
 
+There's a lighthouse... on Camp.
 
-Text Message:
+OUTGOING CLUE
 
+SEND ME A PIC OF THE BEACON OF LIGHT STANDING BETWEEN JULIA AND HER BROTHER GIROD.
 
+EXPECTED RESPONSE
 
-“We’re not done yet!
+{Photo}
 
+REPLY IF CORRECT
 
+https://the-game-bureau.github.io/nolabound/lighthouse.jpg Here's two pics right back atcha! OK, team Marielle, we're almost done. We've got two challenges left.
 
-Find the marker with the Cuban flag nearby.
+ 
 
+LET'S ROCK!
 
+LOCATIONJunebug
 
-It might seem random, but New Orleans and Havana have more in common than you’d think—port cities, Spanish roots, and music that moves your soul.
+BACKGROUND
 
+It used to be a recording studio.
 
+OUTGOING CLUEIt's no secret that one of the best new restaurant's in the city is right across the street, but did you know that Junebug used to be Jazz City Studios. SEND THE BIRTHDAY GIRL IN TO SEE SOME OF THE FAMOUS MUSICIAN'S IN THE HALL. SEND ME ONE OF THEIR NAMES.
 
-When you find it, TEXT ME WHAT THE MARKER IS HONORING. THEN… I’LL SEND YOU SOMETHING SWEET.”
+EXPECTED RESPONSE{Fats Domino, Little Richard, Professor Longhair, Dr. John, or The Meters}
+
+REPLY IF CORRECTHere's a whole playlist related to this studio for later consumption:https://open.spotify.com/playlist/7b4Aar7yhFQQ5tY3Ovakk6?si=uzozkLTWRzSuX5ME-sFVOA
+
+PARTY
+
+LOCATION
+
+717 St. Charles Avenue (Inside)
+
+BACKGROUND
+
+The end.
+
+OUTGOING CLUECome on back to 717 St. Charles!https://w3w.co/settle.fallen.mascotsUNSCRAMBLE THE FOUR NUMBERS IN THE WINDOW TO MAKE A NUMBER NEAR AND DEAR TO MARIELLE! TYPE THE NUMBER INTO THE DOOR'S KEYPAD AND HIT THE CHECKMARK BUTTON
+
+EXPECTED RESPONSE
+
+0614
+
+THE END
+
+"Sing happy birthday!"
