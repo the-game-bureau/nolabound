@@ -85,7 +85,7 @@
     </select>
 
     <label for="price">What would you have paid per person?</label>
-    <input type="text" name="Estimated Value" id="price" placeholder="$5? $10? $20?">
+    <input type="text" name="Estimated Value" id="price" placeholder="$5? $10? $20?" value="$">
 
     <label for="favorite">What was your favorite part?</label>
     <textarea name="Favorite Part" id="favorite" rows="3"></textarea>
@@ -102,13 +102,22 @@
     <!-- Honeypot field to block spam bots -->
     <input type="text" name="_gotcha" class="hidden" autocomplete="off">
 
-    <!-- Formspree auto redirect on success -->
+    <!-- Formspree hidden fields -->
     <input type="hidden" name="_subject" value="New Scavenger Hunt Feedback!" />
     <input type="hidden" name="_captcha" value="false">
 
     <button type="submit">Send Feedback</button>
   </form>
 </div>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    const priceInput = document.getElementById("price");
+    if (priceInput && priceInput.value === "$") {
+      priceInput.setSelectionRange(1, 1);
+    }
+  });
+</script>
 
 </body>
 </html>
