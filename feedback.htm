@@ -64,7 +64,7 @@
 
 <div class="container">
   <h1>🎉 Marielle's Birthday Scavenger Hunt Feedback 🎉</h1>
-  <form action="save_feedback.php" method="POST">
+  <form action="https://formspree.io/f/mgvkwpzo" method="POST">
     
     <label for="fun">How fun was the hunt?</label>
     <select name="Fun Rating" id="fun" required>
@@ -103,7 +103,11 @@
     <input type="email" name="Email" id="email">
 
     <!-- Honeypot field to block spam bots -->
-    <input type="text" name="nickname" class="hidden" autocomplete="off">
+    <input type="text" name="_gotcha" class="hidden" autocomplete="off">
+
+    <!-- Formspree auto redirect on success -->
+    <input type="hidden" name="_subject" value="New Scavenger Hunt Feedback!" />
+    <input type="hidden" name="_captcha" value="false">
 
     <button type="submit">Send Feedback</button>
   </form>
