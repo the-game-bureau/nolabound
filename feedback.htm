@@ -3,32 +3,111 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>🎉 Marielle’s Scavenger Hunt Feedback 🎉</title>
+  <title>🎉 Marielle's Birthday Scavenger Hunt Feedback 🎉</title>
   <style>
     body {
       font-family: Arial, sans-serif;
-      padding: 20px;
       background-color: #f9f9f9;
-      text-align: center;
+      padding: 1em;
+      margin: 0;
+    }
+    .container {
+      max-width: 600px;
+      background: #fff;
+      padding: 1.5em;
+      margin: 0 auto;
+      border-radius: 10px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
     }
     h1 {
-      color: #333;
-      margin-bottom: 10px;
+      font-size: 1.5em;
+      text-align: center;
+      margin-bottom: 0.5em;
     }
-    iframe {
-      border: none;
+    label {
+      font-weight: bold;
+      display: block;
+      margin-top: 1em;
+    }
+    input, select, textarea {
       width: 100%;
-      max-width: 640px;
-      height: 1200px;
+      font-size: 1em;
+      padding: 0.75em;
+      margin-top: 0.3em;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+      box-sizing: border-box;
+    }
+    textarea {
+      resize: vertical;
+    }
+    button {
+      margin-top: 1.5em;
+      padding: 0.75em 1.5em;
+      background-color: #ffcc00;
+      border: none;
+      font-size: 1em;
+      font-weight: bold;
+      border-radius: 5px;
+      cursor: pointer;
+      width: 100%;
+    }
+    button:hover {
+      background-color: #e6b800;
+    }
+    .hidden {
+      display: none;
     }
   </style>
 </head>
 <body>
 
-<h1>🎉 We'd love your feedback! 🎉</h1>
-<p>Tell us what you thought of Marielle’s birthday scavenger hunt!</p>
+<div class="container">
+  <h1>🎉 Marielle's Birthday Scavenger Hunt Feedback 🎉</h1>
+  <form action="save_feedback.php" method="POST">
+    
+    <label for="fun">How fun was the hunt?</label>
+    <select name="Fun Rating" id="fun" required>
+      <option value="">--Choose one--</option>
+      <option value="⭐">⭐ Not very</option>
+      <option value="⭐⭐">⭐⭐ Okay</option>
+      <option value="⭐⭐⭐">⭐⭐⭐ Pretty fun</option>
+      <option value="⭐⭐⭐⭐">⭐⭐⭐⭐ Loved it</option>
+      <option value="⭐⭐⭐⭐⭐">⭐⭐⭐⭐⭐ Best day ever</option>
+    </select>
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfEXAMPLEURL/viewform?embedded=true" allowfullscreen></iframe>
+    <label for="length">Was the length just right?</label>
+    <select name="Length Opinion" id="length" required>
+      <option value="">--Choose one--</option>
+      <option value="Too short">Too short</option>
+      <option value="Just right">Just right</option>
+      <option value="Too long">Too long</option>
+    </select>
+
+    <label for="price">What would you have paid per person?</label>
+    <input type="text" name="Estimated Value" id="price" placeholder="$5? $10? $20?">
+
+    <label for="favorite">What was your favorite part?</label>
+    <textarea name="Favorite Part" id="favorite" rows="3"></textarea>
+
+    <label for="challenge">What was your favorite challenge?</label>
+    <textarea name="Favorite Challenge" id="challenge" rows="3"></textarea>
+
+    <label for="suggestions">Any suggestions or improvements?</label>
+    <textarea name="Suggestions" id="suggestions" rows="3"></textarea>
+
+    <label for="name">Your Name (optional)</label>
+    <input type="text" name="Name" id="name">
+
+    <label for="email">Email (optional)</label>
+    <input type="email" name="Email" id="email">
+
+    <!-- Honeypot field to block spam bots -->
+    <input type="text" name="nickname" class="hidden" autocomplete="off">
+
+    <button type="submit">Send Feedback</button>
+  </form>
+</div>
 
 </body>
 </html>
