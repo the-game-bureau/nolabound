@@ -5,63 +5,86 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>360insights Downtown NOLA Tour</title>
   <style>
+    * {
+      box-sizing: border-box;
+    }
     body {
-      font-family: Arial, sans-serif;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
       background: #f0f0f0;
       color: #333;
       margin: 0;
       padding: 0;
+      font-size: 16px;
+      line-height: 1.5;
+      -webkit-text-size-adjust: 100%;
     }
     header {
       background: #1a73e8;
       color: #fff;
-      padding: 2rem 1rem;
+      padding: 1.5rem 1rem;
       text-align: center;
     }
     header h1 {
       margin: 0;
-      font-size: 2rem;
+      font-size: 1.5rem;
     }
     header p {
       margin: 0.5rem 0 0;
       opacity: 0.9;
+      font-size: 0.9rem;
     }
     .container {
       max-width: 600px;
-      margin: 2rem auto;
-      padding: 0 1rem;
+      margin: 1rem auto;
+      padding: 0 0.75rem;
     }
     .intro-card {
       background: #fff;
-      border-radius: 10px;
-      padding: 1.5rem;
-      margin-bottom: 2rem;
+      border-radius: 12px;
+      padding: 1.25rem;
+      margin-bottom: 1.5rem;
       box-shadow: 0 2px 8px rgba(0,0,0,0.1);
     }
     .intro-card h2 {
       margin-top: 0;
       color: #1a73e8;
+      font-size: 1.25rem;
     }
     .phone-number {
-      font-size: 1.5rem;
+      font-size: 1.25rem;
       font-weight: bold;
       color: #1a73e8;
       text-align: center;
       margin: 1rem 0;
     }
+    .phone-number a {
+      color: #1a73e8;
+      text-decoration: none;
+      padding: 0.75rem 1rem;
+      display: inline-block;
+      border: 2px solid #1a73e8;
+      border-radius: 8px;
+      transition: background 0.2s, color 0.2s;
+    }
+    .phone-number a:hover,
+    .phone-number a:active {
+      background: #1a73e8;
+      color: #fff;
+    }
     .intro-card ul {
       padding-left: 1.2rem;
+      margin: 0;
     }
     .intro-card li {
       margin-bottom: 0.5rem;
       line-height: 1.5;
     }
     .message-thread {
-      margin-top: 2rem;
+      margin-top: 1.5rem;
     }
     .message {
-      margin-bottom: 1rem;
-      max-width: 85%;
+      margin-bottom: 0.75rem;
+      max-width: 90%;
       clear: both;
     }
     .message.incoming {
@@ -74,6 +97,8 @@
       padding: 0.75rem 1rem;
       border-radius: 18px;
       line-height: 1.5;
+      word-wrap: break-word;
+      overflow-wrap: break-word;
     }
     .message.incoming .bubble {
       background: #fff;
@@ -99,8 +124,10 @@
     }
     .message img {
       max-width: 100%;
+      height: auto;
       border-radius: 10px;
       margin-top: 0.5rem;
+      display: block;
     }
     .bubble p {
       margin: 0 0 1em 0;
@@ -109,6 +136,16 @@
     }
     .bubble p:last-child {
       margin-bottom: 0;
+    }
+    .bubble a {
+      color: #1a73e8;
+      word-break: break-all;
+      padding: 0.25rem 0;
+      display: inline-block;
+    }
+    .message.outgoing .bubble a {
+      color: #fff;
+      text-decoration: underline;
     }
     .clearfix::after {
       content: "";
@@ -119,7 +156,7 @@
       text-align: center;
       color: #888;
       font-size: 0.85rem;
-      margin: 2rem 0;
+      margin: 1.5rem 0;
       clear: both;
     }
     .section-divider span {
@@ -128,10 +165,40 @@
     }
     .footer {
       text-align: center;
-      margin: 3rem 0;
-      font-size: 0.9rem;
+      margin: 2rem 0;
+      padding: 1rem;
+      font-size: 0.85rem;
       color: #666;
       clear: both;
+    }
+
+    /* Tablet and up */
+    @media (min-width: 768px) {
+      header {
+        padding: 2rem 1rem;
+      }
+      header h1 {
+        font-size: 2rem;
+      }
+      header p {
+        font-size: 1rem;
+      }
+      .container {
+        margin: 2rem auto;
+        padding: 0 1rem;
+      }
+      .intro-card {
+        padding: 1.5rem;
+      }
+      .intro-card h2 {
+        font-size: 1.5rem;
+      }
+      .phone-number {
+        font-size: 1.5rem;
+      }
+      .message {
+        max-width: 85%;
+      }
     }
   </style>
 </head>
@@ -145,7 +212,7 @@
     <div class="intro-card">
       <h2>Get Started</h2>
       <p>To take a Self-Guided Downtown NOLA Neighborhood Tour, text your name to:</p>
-      <p class="phone-number">+1 (504) 312-9212</p>
+      <p class="phone-number"><a href="sms:+15043129212">+1 (504) 312-9212</a></p>
       <ul>
         <li>Text now and you'll get the start instructions, so you can do the tour whenever you have a free hour over the next few days.</li>
         <li>Go solo or gather a group and lead the way.</li>
