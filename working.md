@@ -1,0 +1,264 @@
+Lafayette!
+
+As you can see New Orleans is deep in Mardi Gras prep mode. That’s Gallier Hall getting stands setup in front of it. Gallier Hall is New Orleans’ original city hall. Now it’s used as  reviewing stands, for inaugurations and even for state funerals.
+
+Federal Reserve
+
+Tree planted by a Bush
+
+Statues on top of old post office
+
+Rotate sculpture
+
+Cuban Flag
+
+Bank vault
+
+Hale Boggs
+
+LHO
+
+EMERIL’s home base
+
+St. Patrick’s -get code off of plaque.
+
+Back door clue
+
+Door code - temperature conversion
+
+---
+
+# Marielle's Birthday Scavenger Hunt
+
+**Date:** Saturday, April 16th 2025, 1pm
+**Location:** 717 St. Charles Avenue (Inside)
+
+---
+
+## 1. TIME FOR A BORING WALKING TOUR
+
+**START LOCATION:** 717 St. Charles Avenue (Outside)
+
+**BACKGROUND:** Give the illusion that you're giving a walking tour. Say, "Oh, one more thing..." You step back inside, lock the deadbolt, and send the first clue.
+
+**OUTGOING CLUE:**
+> Oops, did you think this was a tour?! Nope—it's a scavenger hunt! Let the games begin! TEXT ME THE WORD THAT WAS LIT UP OVER THE BAR and the hunt will begin!
+
+**EXPECTED RESPONSE:** INSIGHTS
+
+**REPLY IF CORRECT:**
+> How insightful of you Team Marielle! I think you're up for this challenge.
+
+---
+
+## 2. LET'S GET IT STARTED!
+
+**START LOCATION:** Standing on the street outside 717.
+
+**BACKGROUND:** A good part of the tour takes place in Lafayette Square. Let's get them there. Hopefully they're dazed and confused.
+
+**OUTGOING CLUE:**
+> What a beautiful April day to celebrate a beautiful woman's birthday! Marielle, lead everyone to the place represented by the first flag below.
+>
+> Wait, that's not right. I always thought that was the flag for a city named after America's favorite fighting Frenchman, but it's not. The second flag is. Who knew?
+>
+> HEAD TO THE NEARBY PLACE THAT THE SECOND FLAG REPRESENTS. WHEN YOU GET THERE TEXT ME WHERE YOU ARE.
+>
+> https://the-game-bureau.github.io/nolabound/1.png
+>
+> https://the-game-bureau.github.io/nolabound/2.gif
+
+**EXPECTED RESPONSE:** LAFAYETTE or LAFAYETTE SQUARE
+
+**REPLY IF CORRECT:**
+> Great start, Team Marielle! 🍾 I would expect no less from a proud LSU alumna and her friends!
+
+---
+
+## 3. PHOTO OP
+
+**START LOCATION:** Statue in the middle of Lafayette Square.
+
+**BACKGROUND:** An easy one.
+
+**OUTGOING CLUE:**
+> SEND ME A PICTURE OF THE BIRTHDAY GIRL WITH FLOWERS IN THE BACKGROUND.
+
+**EXPECTED RESPONSE:** {Photo}
+
+**REPLY IF CORRECT:**
+> Beautiful! I think you've found your next headshot for NOLA Power of 100 Ladies Who Lunch! Stand by for a harder challenge.
+
+---
+
+## 4. TRICK QUESTION
+
+**START LOCATION:** Gallier Hall
+
+**BACKGROUND:** Gallier Hall
+
+**OUTGOING CLUE:**
+> While we're here... As you know, Gallier Hall is our old City Hall, front and center, still with Mardi Gras stands up 😖.
+>
+> TELL ME THE AMERICAN PRESIDENT WHOSE FUNERAL WAS AT GALLIER HALL.
+>
+> OK… It's a trick question. It was an American President—but the one and only President of the Confederate States of America.
+
+**EXPECTED RESPONSE:** JEFFERSON DAVIS
+
+**REPLY IF CORRECT:**
+> Did you Google that? Great job team! Here's a picture from that funeral, right where you stand, 135 years ago:
+>
+> https://archives-nolalibrary.contentdm.oclc.org/digital/api/singleitem/image/p16880coll18/15/default.jpg
+
+---
+
+## 5. SHUMARD OAK
+
+**BACKGROUND:** 3 presidents dedicated a tree here.
+
+**OUTGOING CLUE:**
+> Let's wander around the square for a minute. FIND A TREE PLANTED BY A BUSH AND TELL ME WHAT TYPE OF TREE IT IS.
+
+**EXPECTED RESPONSE:** SHUMARD or SHUMARD OAK
+
+**REPLY IF CORRECT:**
+> You can not be fooled Team Marielle!
+>
+> https://the-game-bureau.github.io/nolabound/Bush.jpg
+
+---
+
+## 6. DEAD PRESIDENTS
+
+**BACKGROUND:** Location: Federal Reserve Building (right of Gallier Hall)
+
+**OUTGOING CLUE:**
+> So you think you're a pirate, huh? Well, have I got a haul for you! Take a look at the plain building to the right of Gallier Hall.
+>
+> TEXT ME HOW MANY DOLLARS A DAY they're talking about in the video below. You can save the video for later after you get your answer from it. You don't want to stand around looking like a teenager watching videos in public!
+>
+> https://www.youtube.com/watch?v=mwCfK1oqRkI
+
+**EXPECTED RESPONSE:** 6 MILLION
+
+**REPLY IF CORRECT:**
+> Arrrrrrrrrrrrrgh! That's a lot of money ye found, matey! I'm sure pirates walked these streets way back when. I mean, just look at this place:
+>
+> https://the-game-bureau.github.io/nolabound/ls.jpg
+
+---
+
+## 7. OUT OF THERE
+
+**BACKGROUND:** "Out of There" Sculpture at Camp and Lafayette
+
+**OUTGOING CLUE:**
+> From pirates, to assassins. It's been reported that Lee Harvey Oswald used to hang out at the Newman building at the corner of Lafayette and Camp.
+>
+> The Newman building has been replaced by a sculpture.
+>
+> TAKE A PICTURE OF THE BIRTHDAY GIRL ROTATING THE SCULPTURE TO 274 DEGREES, ALSO KNOWN AS NORTH, NORTHEAST, BUT DON'T SEND ME THE PIC. TELL ME THE NAME OF THE FOUNDING FATHER THE SCULPTURE IS POINTING TO.
+>
+> Do NOT text me "Benjamin Franklin". You may have to strain your neck a bit to find the father written in stone. He was the first Chief Justice of the United States, appointed by George Washington himself.
+>
+> Here's some Oswald stuff that will help you in no way what-so-ever 🤣.
+>
+> https://the-game-bureau.github.io/nolabound/newman.jpg
+>
+> https://the-game-bureau.github.io/nolabound/flyer.jpg
+
+**EXPECTED RESPONSE:** John Jay
+
+**REPLY IF CORRECT:**
+> Wow! I am impressed! That is some Lake Charles muscle combined with some Political Science brain power!
+
+---
+
+## 8. LET US PRAY
+
+**LOCATION:** St. Patrick's Church
+
+**BACKGROUND:** It's the day before Easter.
+
+**OUTGOING CLUE:**
+> GO HERE AND TELL ME WHERE YOU ARE:
+> Where Irish hearts sought a sacred space,
+> Beyond the French Quarter's first cross.
+> On street of tents stands,
+> Built by determined hands,
+> A house of worship, filled with grace.
+
+**EXPECTED RESPONSE:** St. Patrick's Church
+
+**REPLY IF CORRECT:**
+> Yes. When the Irish went to St. Louis Cathedral it seemed like God only spoke French, so they built a little wooden church for themselves. Then Gallier, yes that Gallier, stepped in and built the church you see today.
+
+---
+
+## 9. INSIDE ST. PATRICK'S
+
+**LOCATION:** Inside St. Patrick's
+
+**BACKGROUND:** Some beautiful stuff.
+
+**OUTGOING CLUE:**
+> Many churches close their doors between Good Friday and Easter Sunday to symbolize Jesus' Death and Resurrection. But if the doors are open, SEND ME A PIC OF ST. PATRICK BAPTIZING THE PRINCESSES. Otherwise just let me know it's locked up and I'll send you the next adventure.
+
+**EXPECTED RESPONSE:** {Photo}
+
+**REPLY IF CORRECT:**
+> That was a nice interlude! Let's continue to celebrate the birthday girl!
+
+---
+
+## 10. TOWARD THE LIGHT
+
+**LOCATION:** Lighthouse on Camp
+
+**BACKGROUND:** There's a lighthouse... on Camp.
+
+**OUTGOING CLUE:**
+> SEND ME A PIC OF THE BEACON OF LIGHT STANDING BETWEEN JULIA AND HER BROTHER GIROD.
+
+**EXPECTED RESPONSE:** {Photo}
+
+**REPLY IF CORRECT:**
+> Here's two pics right back atcha! OK, team Marielle, we're almost done. We've got two challenges left.
+>
+> https://the-game-bureau.github.io/nolabound/lighthouse.jpg
+
+---
+
+## 11. LET'S ROCK!
+
+**LOCATION:** Junebug
+
+**BACKGROUND:** It used to be a recording studio.
+
+**OUTGOING CLUE:**
+> It's no secret that one of the best new restaurant's in the city is right across the street, but did you know that Junebug used to be Jazz City Studios. SEND THE BIRTHDAY GIRL IN TO SEE SOME OF THE FAMOUS MUSICIAN'S IN THE HALL. SEND ME ONE OF THEIR NAMES.
+
+**EXPECTED RESPONSE:** {Fats Domino, Little Richard, Professor Longhair, Dr. John, or The Meters}
+
+**REPLY IF CORRECT:**
+> Here's a whole playlist related to this studio for later consumption: https://open.spotify.com/playlist/7b4Aar7yhFQQ5tY3Ovakk6?si=uzozkLTWRzSuX5ME-sFVOA
+
+---
+
+## 12. PARTY
+
+**LOCATION:** 717 St. Charles Avenue (Inside)
+
+**BACKGROUND:** The end.
+
+**OUTGOING CLUE:**
+> Come on back to 717 St. Charles!
+> UNSCRAMBLE THE FOUR NUMBERS IN THE WINDOW TO MAKE A NUMBER NEAR AND DEAR TO MARIELLE!
+> TYPE THE NUMBER INTO THE DOOR'S KEYPAD AND HIT THE CHECKMARK BUTTON
+> https://w3w.co/settle.fallen.mascots
+
+**EXPECTED RESPONSE:** 0614
+
+**REPLY IF CORRECT:**
+> "Sing happy birthday!" 🎂🎶
